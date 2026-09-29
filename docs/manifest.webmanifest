@@ -1,10 +1,10 @@
 {
-  "id": "/processing-to-p5-demos/",
+  "id": "/processing-to-p5/",
   "name": "Processing to p5.js",
   "short_name": "p5 Demos",
   "description": "Processing 到 p5.js 创意编程实验集",
-  "start_url": "/processing-to-p5-demos/#/",
-  "scope": "/processing-to-p5-demos/",
+  "start_url": "/processing-to-p5/#/",
+  "scope": "/processing-to-p5/",
   "display": "standalone",
   "lang": "zh-CN",
   "theme_color": "#18181b",
